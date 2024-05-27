@@ -1,0 +1,41 @@
+export const skillsData = [
+    {
+        label:"FRONT END",
+        data:[
+            {
+                skillName:"HTML",
+                percentage:"90",
+            },
+            {
+                skillName:"CSS",
+                percentage:"80",
+            },
+            {
+                skillName:"JAVASCRIPT",
+                percentage:"75",
+            },
+            {
+                skillName:"REACT",
+                percentage:"70",
+            },
+        ],
+    },
+    {
+        label:"BACK END",
+        data:[
+            {
+                skillName:"PYTHON",
+                percentage:"60",
+            },
+        ],
+    },
+    {
+        label:"DATABASE",
+        data:[
+            {
+            skillName:"MONGODB",
+            percentage:"50",
+            },
+        ],
+    },
+]

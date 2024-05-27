@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+/*create root component*/
+
+:root{
+    --yellow--theme-background-color:#111111;
+    --yellow--theme-main-color:#1E90FF;
+    --yellow--theme-sub-text-color:rgb(159, 206, 250);
+    --yellow--theme-nav-background-color:#000000;
+
+}
+
+*
+{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    scroll-behavior: smooth;
+}
+section
+{
+width:100%;
+height:100vh;
+}
+html{
+    font-size: 62.5%;
+    height: 100%;
+    }
+body{
+    background:var(--yellow--theme-background-color);
+    height: 100%;
+}
+#root{
+    height: 100%;
+}
+div{
+    color:white;
+    font-size: 40px;
+}
