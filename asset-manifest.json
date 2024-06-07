@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/martina-portfolio/static/css/main.512900a1.css",
-    "main.js": "/martina-portfolio/static/js/main.d860c9cf.js",
+    "main.css": "/martina-portfolio/static/css/main.b0a0dbb4.css",
+    "main.js": "/martina-portfolio/static/js/main.293ec178.js",
     "static/js/1927.bee4e818.chunk.js": "/martina-portfolio/static/js/1927.bee4e818.chunk.js",
     "static/js/7590.0a1adf40.chunk.js": "/martina-portfolio/static/js/7590.0a1adf40.chunk.js",
     "static/js/6725.fdd95aa6.chunk.js": "/martina-portfolio/static/js/6725.fdd95aa6.chunk.js",
@@ -72,8 +72,8 @@
     "static/js/4290.7e9157d8.chunk.js": "/martina-portfolio/static/js/4290.7e9157d8.chunk.js",
     "static/media/martin1.jpg": "/martina-portfolio/static/media/martin1.f206c82f90f3a49240fb.jpg",
     "index.html": "/martina-portfolio/index.html",
-    "main.512900a1.css.map": "/martina-portfolio/static/css/main.512900a1.css.map",
-    "main.d860c9cf.js.map": "/martina-portfolio/static/js/main.d860c9cf.js.map",
+    "main.b0a0dbb4.css.map": "/martina-portfolio/static/css/main.b0a0dbb4.css.map",
+    "main.293ec178.js.map": "/martina-portfolio/static/js/main.293ec178.js.map",
     "1927.bee4e818.chunk.js.map": "/martina-portfolio/static/js/1927.bee4e818.chunk.js.map",
     "7590.0a1adf40.chunk.js.map": "/martina-portfolio/static/js/7590.0a1adf40.chunk.js.map",
     "6725.fdd95aa6.chunk.js.map": "/martina-portfolio/static/js/6725.fdd95aa6.chunk.js.map",
@@ -144,7 +144,7 @@
     "4290.7e9157d8.chunk.js.map": "/martina-portfolio/static/js/4290.7e9157d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.512900a1.css",
-    "static/js/main.d860c9cf.js"
+    "static/css/main.b0a0dbb4.css",
+    "static/js/main.293ec178.js"
   ]
 }
