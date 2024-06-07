@@ -27,14 +27,14 @@ const data = [
         to: 'resume'
     },
 
-]
+];
 
 const Navbar = () => {
-    const [toggleIcon, setToggleIcon] = useState(false)
+    const [toggleIcon, setToggleIcon] = useState(false);
 
     const handleToggleIcon = () => {
-        setToggleIcon(!toggleIcon)
-    }
+        setToggleIcon(!toggleIcon);
+    };
     return (
         <div>
             <nav className="navbar">
@@ -45,8 +45,8 @@ const Navbar = () => {
 
                 </div>
 
-                
-                    <ul className="navbar__container__menu">
+
+                <ul className={`navbar__container__menu ${toggleIcon ? 'active' : ""}`}>
                     {
                         data.map((item, key) => (
                             <li key={key} className="navbar__container__menu__item">
@@ -55,10 +55,10 @@ const Navbar = () => {
                                     {item.label}
                                 </Link>
 
-                                </li>      ))
-}  
-</ul>                   
-            
+                            </li>))
+                    }
+                </ul>
+
                 <div className="nav-icon" onClick={handleToggleIcon}>
                     {
                         toggleIcon ? <HiX size={60} /> : <FaBars size={30} />
@@ -68,9 +68,9 @@ const Navbar = () => {
 
                 </div>
             </nav>
-                
+
         </div>
-                )
+    )
 
 }
 

@@ -13,7 +13,7 @@ const Resume = () => {
         icon={<BsInfoCircleFill size = {40}/>}
         />
         <div>
-            <a href="63360935" target="_blank" rel="noopener noreferrer">Do Click Here</a>
+            
         </div>
     </section>
 
